@@ -6,6 +6,7 @@
     <ImplicitUsings>enable</ImplicitUsings>
     <Authors>LK9T9-Sektor</Authors>
     <Description>Simple pagination</Description>
+    <RepositoryUrl>https://github.com/LK9T9-Sektor/Sektor.RazorPagination</RepositoryUrl>
   </PropertyGroup>
 
 
